@@ -13,4 +13,4 @@ This uses `-slave` option provided by VCS to output a shared executable library
 as the simulation output product instead of the default `simv` executable. In 
 addition to this, we need `-e` flag to change name of the `main` function in the 
 shared executable library and additional libraries to be linked along with C/C++
-program. There's not much documentation to this and hence this repo.
+program. There's not much documentation on how to do this and hence this repo.
